@@ -1,1 +1,0 @@
-# Masai-red-team-project
