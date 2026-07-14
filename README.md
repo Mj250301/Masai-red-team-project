@@ -1,4 +1,4 @@
-# Masai-red-team-project
+# Masai (IIT-r) red-team-project 
 # HITS Smart Campus - Red Team Assessment
 
 ## Project Overview
